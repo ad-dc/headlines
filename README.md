@@ -6,7 +6,7 @@ Adds keyboard shortcuts to CKEditor for headlines
 ## Installation
 
 1. place in plugins directory
-2. add to your extra plugins: `config.extraPlugins = 'timestamp'`
+2. add to your extra plugins: `config.extraPlugins = 'headlines'`
 
 ## Usage
 
